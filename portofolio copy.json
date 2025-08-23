@@ -1,0 +1,537 @@
+[
+	{
+		"year":"2025",
+		"projects":[
+			{"id":"P-2025-01","title":"Indopack","type":"Company Profile","link":"https://indopackprinting.com/","tags":["HTML","CSS","JS","UI","jQuery","Bootstrap","Responsive"],"images":[
+				{"path":"P-2025-01a.png","width":1897,"height":907,"rWidth":3,"rHeight":2},
+				{"path":"P-2025-01b.png","width":1898,"height":907,"rWidth":3,"rHeight":2},
+				{"path":"P-2025-01c.png","width":1897,"height":910,"rWidth":3,"rHeight":2},
+				{"path":"P-2025-01d.png","width":1898,"height":907,"rWidth":3,"rHeight":2},
+				{"path":"P-2025-01e.png","width":402,"height":815,"rWidth":2,"rHeight":5},
+				{"path":"P-2025-01f.png","width":402,"height":822,"rWidth":2,"rHeight":5}
+			]},
+			{"id":"P-2025-02","title":"Pertamina Intranet Portal","type":"Corporate Internal Portal","link":"","tags":["HTML","CSS","JS","UI","jQuery","Bootstrap","Responsive","C#","SQL Server","Sharepoint"],"images":[
+				{"path":"P-2025-02a.png","width":1180,"height":791,"rWidth":3,"rHeight":2},
+				{"path":"P-2025-02b.png","width":1181,"height":807,"rWidth":3,"rHeight":2},
+				{"path":"P-2025-02c.png","width":1182,"height":772,"rWidth":3,"rHeight":2},
+				{"path":"P-2025-02d.png","width":1181,"height":662,"rWidth":3,"rHeight":2}
+			]}
+		]
+	},
+	{
+		"year":"2024",
+		"projects":[
+			{"id":"P-2024-01","title":"Magic Pocket","type":"AI Application Template","link":"","tags":["HTML","CSS","JS","UI","jQuery","Bootstrap","SVG Animated","Responsive"],"images":[
+				{"path":"P-2024-01a.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2},
+				{"path":"P-2024-01b.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2},
+				{"path":"P-2024-01c.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2},
+				{"path":"P-2024-01d.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2024-02","title":"KHP Creative Works","type":"Company Profile","link":"http://khpcreativeworks.com/","tags":["HTML","CSS","JS","UI","jQuery","Bootstrap","SVG Animated","Responsive","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2024-02a.jpg","width":1852,"height":1042,"rWidth":3,"rHeight":2},
+				{"path":"P-2024-02b.jpg","width":1854,"height":1040,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2024-03","title":"UI Generator v2","type":"Design & Development Tools","link":"","tags":["HTML","CSS","JS","UI","jQuery","Bootstrap","Responsive","NodeJS","Linux","MySQL","Monaco Editor","UI Document Generator","Rapid UX Usability Testing"],"images":[
+				{"path":"P-2024-03a.jpg","width":1865,"height":953,"rWidth":3,"rHeight":2},
+				{"path":"P-2024-03b.jpg","width":1871,"height":955,"rWidth":3,"rHeight":2},
+				{"path":"P-2024-03c.jpg","width":1870,"height":956,"rWidth":3,"rHeight":2},
+				{"path":"P-2024-03d.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2}
+			]}
+		]
+	},
+	{
+		"year":"2023",
+		"projects":[
+			{"id":"P-2023-01","title":"Dahayu Jewelry","type":"Product Showcase","link":"https://dahayujewelry.com/","tags":["HTML","CSS","JS","UI","jQuery","Wordpress","Elementor","Responsive"],"images":[
+				{"path":"P-2023-01.jpg","width":1853,"height":1748,"rWidth":2,"rHeight":2}
+			]},
+			{"id":"P-2023-02","title":"Harvardy Law","type":"Law Firm Website","link":"https://hlaw.id/","tags":["HTML","CSS","JS","UI","jQuery","Wordpress","Responsive"],"images":[
+				{"path":"P-2023-02a.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2},
+				{"path":"P-2023-02b.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2023-03","title":"Marieta Mauren","type":"Law Firm Website","link":"https://marietamauren.id/","tags":["HTML","CSS","JS","UI","jQuery","Wordpress","Responsive"],"images":[
+				{"path":"P-2023-03a.jpg","width":1850,"height":953,"rWidth":3,"rHeight":2},
+				{"path":"P-2023-03b.jpg","width":1849,"height":959,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2023-04","title":"Codeltra Alliance","type":"Advisory Firm Website","link":"https://codeltraalliance.com/","tags":["HTML","CSS","JS","UI","jQuery","Wordpress","Responsive"],"images":[
+				{"path":"P-2023-04.jpg","width":1639,"height":3849,"rWidth":2,"rHeight":5}
+			]},
+			{"id":"P-2023-05","title":"Pertamina Digital Day","type":"Event Site Template","link":"","tags":["HTML","CSS","JS","UI","jQuery","Bootstrap","Responsive"],"images":[
+				{"path":"P-2023-05.jpg","width":1744,"height":6730,"rWidth":2,"rHeight":5}
+			]},
+			{"id":"P-2023-06","title":"Water Kiosk","type":"Kiosk Template","link":"","tags":["HTML","CSS","JS","UI","jQuery","Responsive"],"images":[
+				{"path":"P-2023-06a.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2},
+				{"path":"P-2023-06b.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2023-07","title":"SCCM Implementation","type":"System Tools","link":"","tags":["Console","Powershell","AppLocker","Windows Server"],"images":[
+				{"path":"P-2023-07.jpg","width":1152,"height":757,"rWidth":3,"rHeight":2}
+			]}
+		]
+	},
+	{
+		"year":"2022",
+		"projects":[
+			{"id":"P-2022-01","title":"Harvardy, Marieta & Mauren","type":"Attorney Website","link":"","tags":["HTML","CSS","JS","UI","jQuery","Wordpress","Responsive"],"images":[
+				{"path":"P-2022-01.png","width":1310,"height":712,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2022-02","title":"Primary School Graduation","type":"E-Invitation","link":"","tags":["HTML","CSS","JS","UI","jQuery","Custom Site","Responsive"],"images":[
+				{"path":"P-2022-02.png","width":1266,"height":632,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2022-03","title":"Zwap","type":"Vape Consumer Site","link":"","tags":["HTML","CSS","JS","UI","jQuery","Custom Site","Responsive","Wordpress","PWA","Elementor"],"images":[
+				{"path":"P-2022-03a.jpg","width":480,"height":995,"rWidth":2,"rHeight":5},
+				{"path":"P-2022-03b.jpg","width":481,"height":980,"rWidth":2,"rHeight":4},
+				{"path":"P-2022-03c.jpg","width":483,"height":983,"rWidth":2,"rHeight":5},
+				{"path":"P-2022-03d.jpg","width":483,"height":986,"rWidth":2,"rHeight":4},
+				{"path":"P-2022-03e.jpg","width":479,"height":979,"rWidth":2,"rHeight":3},
+				{"path":"P-2022-03f.jpg","width":484,"height":981,"rWidth":2,"rHeight":5}
+			]},
+			{"id":"P-2022-05","title":"BitBox","type":"File Share","link":"","tags":["HTML","CSS","JS","UI","jQuery","Responsive"],"images":[
+				{"path":"P-2022-04a.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2},
+				{"path":"P-2022-04b.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2},
+				{"path":"P-2022-04c.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2}
+			]}
+		]
+	},
+	{
+		"year":"2021",
+		"projects":[
+			{"id":"P-2021-01","title":"Asosiasi Advokat Indonesia","type":"Company Site","link":"https://asosiasiadvokatindonesia.id/","tags":["HTML","CSS","JS","UI","jQuery","PHP","Wordpress","Responsive"],"images":[
+				{"path":"P-2021-01a.png","width":1920,"height":4363,"rWidth":2,"rHeight":3},
+				{"path":"P-2021-01b.png","width":1920,"height":1869,"rWidth":2,"rHeight":2},
+				{"path":"P-2021-01c.png","width":1920,"height":1643,"rWidth":2,"rHeight":2}
+			]},
+			{"id":"P-2021-02","title":"Evaluate","type":"Company Site","link":"https://evaluate.id/","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress","Responsive"],"images":[
+				{"path":"P-2021-02a.png","width":1350,"height":4000,"rWidth":2,"rHeight":5},
+				{"path":"P-2021-02b.png","width":1350,"height":4000,"rWidth":2,"rHeight":5},
+				{"path":"P-2021-02c.png","width":1350,"height":4000,"rWidth":2,"rHeight":5}
+			]},
+			{"id":"P-2021-03","title":"Jadwal Sholat","type":"TV Display","link":"","tags":["HTML","CSS","JS","UI","jQuery","Responsive"],"images":[
+				{"path":"P-2021-03a.png","width":1919,"height":940,"rWidth":3,"rHeight":2},
+				{"path":"P-2021-03b.png","width":1919,"height":941,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2021-04","title":"Sedekah Kita","type":"Foundation Service Site Template","link":"","tags":["HTML","CSS","JS","UI","jQuery","Responsive"],"images":[
+				{"path":"P-2021-04a.jpg","width":1218,"height":741,"rWidth":3,"rHeight":2},
+				{"path":"P-2021-04b.jpg","width":1218,"height":741,"rWidth":3,"rHeight":2},
+				{"path":"P-2021-04c.jpg","width":1218,"height":741,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2021-05","title":"Gema Cermat","type":"Foundation Service Site Template","link":"","tags":["HTML","CSS","JS","UI","jQuery","Responsive"],"images":[
+				{"path":"P-2021-05a.jpg","width":1744,"height":2611,"rWidth":2,"rHeight":3},
+				{"path":"P-2021-05b.jpg","width":1744,"height":2656,"rWidth":2,"rHeight":3},
+				{"path":"P-2021-05c.jpg","width":1744,"height":2780,"rWidth":2,"rHeight":3},
+				{"path":"P-2021-05d.jpg","width":1744,"height":3015,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2021-06","title":"Stock Analyzer","type":"Corporate Service Site Template","link":"","tags":["HTML","CSS","JS","UI","jQuery","Responsive"],"images":[
+				{"path":"P-2021-06a.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2},
+				{"path":"P-2021-06b.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2},
+				{"path":"P-2021-06c.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2021-07","title":"Simada","type":"Admin Template","link":"","tags":["HTML","CSS","JS","UI","jQuery","Responsive"],"images":[
+				{"path":"P-2021-07.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2021-08","title":"Toko Mbah","type":"Web Store Template","link":"","tags":["HTML","CSS","JS","UI","jQuery","Responsive"],"images":[
+				{"path":"P-2021-08a.jpg","width":1744,"height":1332,"rWidth":2,"rHeight":2},
+				{"path":"P-2021-08b.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2},
+				{"path":"P-2021-08c.jpg","width":1744,"height":926,"rWidth":3,"rHeight":2}
+			]}
+
+		]
+	},
+	{
+		"year":"2020",
+		"projects":[
+			{"id":"P-2020-01","title":"Blocksphere","type":"Company Site","link":"https://blocksphere.id/","tags":["HTML","CSS","JS","UI","jQuery","Bootstrap","Responsive"],"images":[
+				{"path":"P-2020-01.jpg","width":1755,"height":2676,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2020-02","title":"Faasri","type":"Company Service Site","link":"","tags":["HTML","CSS","JS","UI","jQuery","Bootstrap","Responsive"],"images":[
+				{"path":"P-2020-02a.png","width":1919,"height":941,"rWidth":3,"rHeight":2},
+				{"path":"P-2020-02b.png","width":1919,"height":940,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2020-03","title":"HMY Logistik","type":"Company Profile Site","link":"","tags":["HTML","CSS","JS","jQuery","Wordpress","Responsive"],"images":[
+				{"path":"P-2020-03.png","width":1336,"height":768,"rWidth":3,"rHeight":2}
+			]}
+		]
+	},
+	{
+		"year":"2019",
+		"projects":[
+			{"id":"P-2019-01","title":"Pelayanan Jasa Balitanah","type":"Company Service Site","link":"","tags":["HTML","CSS","JS","UI","jQuery","Bootstrap","Responsive"],"images":[
+				{"path":"P-2019-01a.png","width":1919,"height":942,"rWidth":3,"rHeight":2},
+				{"path":"P-2019-01b.png","width":1919,"height":940,"rWidth":3,"rHeight":2},
+				{"path":"P-2019-01c.png","width":1918,"height":944,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2019-02","title":"Kanasta","type":"Personal Profile Site","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Custom Site","Responsive"],"images":[
+				{"path":"P-2019-02a.png","width":1040,"height":609,"rWidth":3,"rHeight":2},
+				{"path":"P-2019-02b.png","width":1039,"height":608,"rWidth":3,"rHeight":2},
+				{"path":"P-2019-02c.png","width":1039,"height":607,"rWidth":3,"rHeight":2},
+				{"path":"P-2019-02d.png","width":1037,"height":608,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2019-03","title":"Unilever-Mantra","type":"Company Web System","link":"","tags":["HTML","CSS","JS","UI","jQuery","ASP.Net","C#","Custom Site","Responsive"],"images":[
+				{"path":"P-2019-03.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2019-04","title":"Trana","type":"Company Profile Site","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","Wordpress","Responsive"],"images":[
+				{"path":"P-2019-04a.jpg","width":640,"height":1796,"rWidth":2,"rHeight":3},
+				{"path":"P-2019-04b.jpg","width":642,"height":1198,"rWidth":2,"rHeight":3},
+				{"path":"P-2019-04c.jpg","width":637,"height":1199,"rWidth":2,"rHeight":3}
+			]}
+		]
+	},
+	{
+		"year":"2018",
+		"projects":[
+			{"id":"P-2018-01","title":"Evaluate Indonesia","type":"Mystery Shopping Backend","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress","Responsive"],"images":[
+				{"path":"P-2018-01.png","width":1919,"height":941,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2018-02","title":"Padi Bot KMS","type":"Bot Tools","link":"","tags":["HTML","CSS","JS","UI","jQuery","Bootstrap","Responsive"],"images":[
+				{"path":"P-2018-02a.png","width":1920,"height":1080,"rWidth":3,"rHeight":2},
+				{"path":"P-2018-02b.png","width":1920,"height":1080,"rWidth":3,"rHeight":2},
+				{"path":"P-2018-02c.png","width":1920,"height":1080,"rWidth":3,"rHeight":2},
+				{"path":"P-2018-02d.png","width":1920,"height":1080,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2018-03","title":"Samora","type":"Corporate Internal Portal","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","Custom Site","Responsive"],"images":[
+				{"path":"P-2018-03a.png","width":1366,"height":655,"rWidth":3,"rHeight":2},
+				{"path":"P-2018-03b.png","width":1366,"height":655,"rWidth":3,"rHeight":2},
+				{"path":"P-2018-03c.png","width":1366,"height":654,"rWidth":3,"rHeight":2},
+				{"path":"P-2018-03d.png","width":1366,"height":653,"rWidth":3,"rHeight":2}
+			]}
+		]
+	},
+	{
+		"year":"2017",
+		"projects":[
+			{"id":"P-2017-01","title":"PGN-Business Dev","type":"Web Template","link":"","tags":["HTML","CSS","JS","UI","jQuery","Responsive"],"images":[
+				{"path":"P-2017-01.png","width":969,"height":717,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2017-02","title":"Oriflame-Red is My Passion","type":"Loyalti Program","link":"","tags":["HTML","CSS","JS","UI","jQuery","Responsive",""],"images":[
+				{"path":"P-2017-02.png","width":1285,"height":712,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2017-03","title":"Layn","type":"Product Showcase & Web Store","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","Wordpress","Responsive","WooCommerce"],"images":[
+				{"path":"P-2017-03.png","width":1233,"height":712,"rWidth":3,"rHeight":2}
+			]}
+		] 
+	},
+	{
+		"year":"2016",
+		"projects":[
+			{"id":"P-2016-01","title":"Darya Varia Skin Screener","type":"Portal Module","link":"","tags":["HTML","CSS","JS","UI","jQuery","C#","SQL Server","Sharepoint"],"images":[
+				{"path":"P-2016-01.jpg","width":780,"height":720,"rWidth":2,"rHeight":2}
+			]},
+			{"id":"P-2016-02","title":"Codeltra Asia","type":"Company Profile","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2016-02.png","width":1054,"height":712,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2016-03","title":"Kome Home","type":"Product Showcase","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2016-03.png","width":926,"height":702,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2016-04","title":"PGN-Curcol","type":"Web Template","link":"","tags":["HTML","CSS","JS","UI","jQuery"],"images":[
+				{"path":"P-2016-04.jpg","width":1000,"height":1566,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2016-05","title":"PGN-SICoTE","type":"Web Template","link":"","tags":["HTML","CSS","JS","UI","jQuery"],"images":[
+				{"path":"P-2016-05.png","width":828,"height":690,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2016-06","title":"PGN Portal","type":"Corporate Internal Portal","link":"","tags":["HTML","CSS","JS","UI","jQuery","C#","SQL Server","Sharepoint"],"images":[
+				{"path":"P-2016-06a.jpg","width":1218,"height":1511,"rWidth":2,"rHeight":3},
+				{"path":"P-2016-06b.jpg","width":1218,"height":1655,"rWidth":2,"rHeight":3},
+				{"path":"P-2016-06c.jpg","width":1218,"height":940,"rWidth":3,"rHeight":2}
+			]}
+		]
+	},
+	{
+		"year":"2015",
+		"projects":[
+			{"id":"P-2015-01","title":"Arasseo","type":"Product Showcase","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2015-01a.jpg","width":1492,"height":1051,"rWidth":3,"rHeight":2},
+				{"path":"P-2015-01b.jpg","width":1493,"height":1050,"rWidth":3,"rHeight":2},
+				{"path":"P-2015-01c.jpg","width":1356,"height":952,"rWidth":3,"rHeight":2},
+				{"path":"P-2015-01d.jpg","width":1355,"height":951,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2015-02","title":"Gulaku","type":"Product Showcase","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2015-02a.png","width":963,"height":712,"rWidth":3,"rHeight":2},
+				{"path":"P-2015-02b.jpg","width":1290,"height":1601,"rWidth":2,"rHeight":3},
+				{"path":"P-2015-02c.jpg","width":1289,"height":2148,"rWidth":2,"rHeight":3},
+				{"path":"P-2015-02d.jpg","width":1287,"height":2725,"rWidth":2,"rHeight":3},
+				{"path":"P-2015-02e.jpg","width":1288,"height":2150,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2015-03","title":"PGN Portal","type":"Internal Portal","link":"","tags":["HTML","CSS","JS","UI","jQuery","C#","SQL Server","Sharepoint"],"images":[
+				{"path":"P-2015-03.jpg","width":1332,"height":2121,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2015-04","title":"BedBox","type":"Product Showcase","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2015-04a.png","width":893,"height":697,"rWidth":3,"rHeight":2},
+				{"path":"P-2015-04b.jpg","width":732,"height":860,"rWidth":2,"rHeight":2},
+				{"path":"P-2015-04c.jpg","width":737,"height":945,"rWidth":2,"rHeight":3},
+				{"path":"P-2015-04d.jpg","width":735,"height":949,"rWidth":2,"rHeight":3},
+				{"path":"P-2015-04e.jpg","width":734,"height":1070,"rWidth":2,"rHeight":3},
+				{"path":"P-2015-04f.jpg","width":731,"height":1109,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2015-05","title":"DPS","type":"Company Profile","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2015-05.png","width":1050,"height":712,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2015-06","title":"Inch(es)","type":"Landing Page","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2015-06.jpg","width":1281,"height":745,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2015-07","title":"Darya Varia","type":"Internal Portal","link":"","tags":["HTML","CSS","JS","UI","jQuery","C#","SQL Server","Sharepoint"],"images":[
+				{"path":"P-2015-07.jpg","width":828,"height":540,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2015-08","title":"Indosat Portal","type":"Internal Portal","link":"","tags":["HTML","CSS","JS","UI","jQuery","C#","SQL Server","Sharepoint"],"images":[
+				{"path":"P-2015-08.jpg","width":1744,"height":2113,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2015-09","title":"Pusiknas","type":"Application System","link":"","tags":["HTML","CSS","JS","UI","jQuery"],"images":[
+				{"path":"P-2015-09.png","width":756,"height":587,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2015-10","title":"Sigma Hartek","type":"Company Profile","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2015-10.jpg","width":969,"height":803,"rWidth":2,"rHeight":2}]},
+			{"id":"P-2015-11","title":"Top Karir","type":"Vacancy","link":"","tags":["HTML","CSS","JS","UI","jQuery"],"images":[
+				{"path":"P-2015-11.jpg","width":1124,"height":1910,"rWidth":2,"rHeight":3}
+			]}
+		]
+	},
+	{
+		"year":"2014",
+		"projects":[
+			{"id":"P-2014-01","title":"Oriflame - Oriloyal","type":"Loyalti Program","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Custom Site"],"images":[
+				{"path":"P-2014-01.png","width":1129,"height":712,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2014-02","title":"Oriflame - GoldDirector","type":"Loyalti Program","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Custom Site"],"images":[
+				{"path":"P-2014-02.png","width":1356,"height":712,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2014-03","title":"Hidra Production","type":"Production House Website","link":"","tags":["HTML","CSS","JS","UI","jQuery","Wordpress"],"images":[
+				{"path":"P-2014-03.png","width":1036,"height":651,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2014-04","title":"Mahaka","type":"Annual Report","link":"","tags":["HTML","CSS","JS","UI","jQuery"],"images":[
+				{"path":"P-2014-04.png","width":608,"height":658,"rWidth":2,"rHeight":2}
+			]},
+			{"id":"P-2014-05","title":"7 Bidadari","type":"Hotel Website","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2014-05.png","width":2000,"height":1125,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2014-06","title":"K-Touch","type":"Web Store","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Opencart"],"images":[
+				{"path":"P-2014-06.png","width":986,"height":721,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2014-07","title":"Arti","type":"Web Store","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","OpenCart"],"images":[
+				{"path":"P-2014-07a.jpg","width":1130,"height":678,"rWidth":3,"rHeight":2},
+				{"path":"P-2014-07b.jpg","width":1130,"height":680,"rWidth":3,"rHeight":2},
+				{"path":"P-2014-07c.jpg","width":1129,"height":1355,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2014-08","title":"DPS Indonesia","type":"Company Profile Site","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2014-08a.jpg","width":1476,"height":1169,"rWidth":3,"rHeight":2},
+				{"path":"P-2014-08b.jpg","width":1477,"height":1422,"rWidth":2,"rHeight":2},
+				{"path":"P-2014-08c.jpg","width":1475,"height":1437,"rWidth":2,"rHeight":2}
+			]},
+			{"id":"P-2014-09","title":"Oriflame","type":"Loyalty Program Portal","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Custom Site"],"images":[
+				{"path":"P-2014-09a.jpg","width":864,"height":563,"rWidth":3,"rHeight":2},
+				{"path":"P-2014-09b.jpg","width":862,"height":584,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2014-10","title":"K-Touch","type":"Product Showcase","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2014-10.jpg","width":931,"height":2857,"rWidth":2,"rHeight":5}
+			]},
+			{"id":"P-2014-11","title":"Wisata Rock & Roll","type":"Coming Soon Page","link":"","tags":["HTML","CSS","UI"],"images":[
+				{"path":"P-2014-11.jpg","width":1123,"height":792,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2014-12","title":"Telkomsel Digital Advertising","type":"Media Seller Portal","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Custom Site"],"images":[
+				{"path":"P-2014-12a.jpg","width":1495,"height":934,"rWidth":3,"rHeight":2},
+				{"path":"P-2014-12b.jpg","width":1496,"height":1898,"rWidth":2,"rHeight":3},
+				{"path":"P-2014-12c.jpg","width":1496,"height":1902,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2014-13","title":"Summerhome","type":"Hotel Website","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2014-13a.jpg","width":841,"height":418,"rWidth":3,"rHeight":2},
+				{"path":"P-2014-13b.jpg","width":886,"height":429,"rWidth":3,"rHeight":2},
+				{"path":"P-2014-13c.jpg","width":864,"height":430,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2014-14","title":"Terrace at Kuta","type":"Hotel Website","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2014-14.jpg","width":1452,"height":764,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2014-15","title":"Terrace at Kuta - Newsletter","type":"Newsletter","link":"","tags":["HTML","CSS","UI"],"images":[
+				{"path":"P-2014-15.jpg","width":650,"height":906,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2014-16","title":"Tribindo Group","type":"Company Profile","link":"","tags":["HTML","CSS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2014-16.jpg","width":1105,"height":655,"rWidth":3,"rHeight":2}
+			]}
+
+		]
+	},
+	{
+		"year":"2013",
+		"projects":[
+			{"id":"P-2013-01","title":"Stratic","type":"Microsite","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Custom Site","HTML5 Game"],"images":[
+				{"path":"P-2013-01a.jpg","width":1216,"height":712,"rWidth":3,"rHeight":2},
+				{"path":"P-2013-01b.jpg","width":1216,"height":712,"rWidth":3,"rHeight":2},
+				{"path":"P-2013-01c.jpg","width":1060,"height":712,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2013-02","title":"Neither","type":"Product Showcase & Web Store","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress","Opencart"],"images":[
+				{"path":"P-2013-02.png","width":1024,"height":2391,"rWidth":2,"rHeight":5}
+			]},
+			{"id":"P-2013-03","title":"DNC","type":"Law Firm Website","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2013-03.png","width":884,"height":489,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2013-04","title":"DJ Hogi","type":"Personal Site","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2013-04.jpg","width":1233,"height":1204,"rWidth":2,"rHeight":2}
+			]},
+			{"id":"P-2013-05","title":"L-Men","type":"Product Showcase & Web Store","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress","Opencart"],"images":[
+				{"path":"P-2013-05.png","width":796,"height":843,"rWidth":2,"rHeight":2}
+			]},
+			{"id":"P-2013-06","title":"Pu Bu Me Su","type":"Product Showcase","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress","Opencart"],"images":[
+				{"path":"P-2013-06.png","width":1678,"height":877,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2013-07","title":"Run for Your Lifes","type":"Event","link":"","tags":["HTML","CSS","UI"],"images":[
+				{"path":"P-2013-07.jpg","width":1383,"height":860,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2013-08","title":"Sala Kitchen","type":"Restaurant","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2013-08.jpg","width":1386,"height":2109,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2013-09","title":"Screaming Cheap","type":"Web Store","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Opencart"],"images":[
+				{"path":"P-2013-09a.jpg","width":1752,"height":1117,"rWidth":3,"rHeight":2},
+				{"path":"P-2013-09b.jpg","width":1748,"height":1122,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2013-10","title":"SquareOne Cakes","type":"Product Showcase","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Joomla"],"images":[
+				{"path":"P-2013-10.jpg","width":996,"height":705,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2013-14","title":"Villa Gentong","type":"Hotel","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2013-11.jpg","width":1331,"height":832,"rWidth":3,"rHeight":2}
+			]}
+		]
+	},
+	{
+		"year":"2012",
+		"projects":[
+			{"id":"P-2012-01","title":"Masjid Menara FIF","type":"News & Information","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Custom Site"],"images":[
+				{"path":"P-2012.png","width":435,"height":532,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2012-02","title":"Bag's City","type":"Product Showcase & Web Store","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress","Opencart"],"images":[
+				{"path":"P-2012-02.png","width":1246,"height":605,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2012-03","title":"Lilin","type":"Restaurant","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-03.png","width":914,"height":704,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2012-04","title":"Hunting Field","type":"Web Store","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Opencart"],"images":[
+				{"path":"P-2012-04.png","width":540,"height":540,"rWidth":2,"rHeight":2}
+			]},
+			{"id":"P-2012-05","title":"Daily Whatnot","type":"News & Information","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-05.png","width":853,"height":714,"rWidth":2,"rHeight":2}
+			]},
+			{"id":"P-2012-06","title":"Charlie Seen","type":"News & Information","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-06.png","width":1242,"height":705,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2012-07","title":"Ban Serep","type":"News & Information","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-07.png","width":1423,"height":705,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2012-08","title":"BNI","type":"Home Page Template","link":"","tags":["HTML","CSS","JS","UI","jQuery"],"images":[
+				{"path":"P-2012-08.png","width":772,"height":741,"rWidth":2,"rHeight":2}
+			]},
+			{"id":"P-2012-09","title":"Albert Judiyanto","type":"Personal Site","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Custom Site"],"images":[
+				{"path":"P-2012-09a.jpg","width":1847,"height":1157,"rWidth":3,"rHeight":2},
+				{"path":"P-2012-09b.jpg","width":1844,"height":1106,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2012-10","title":"Gedong Putih","type":"Venue","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-10.png","width":1680,"height":884,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2012-11","title":"Tsurukame","type":"Venue","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-11a.jpg","width":1842,"height":853,"rWidth":3,"rHeight":2},
+				{"path":"P-2012-11b.jpg","width":1846,"height":855,"rWidth":3,"rHeight":2},
+				{"path":"P-2012-11c.jpg","width":1847,"height":857,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2012-12","title":"Lolita","type":"Venue","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-12.png","width":1342,"height":621,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2012-13","title":"Wellfed","type":"Restaurant","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-13.png","width":881,"height":705,"rWidth":2,"rHeight":2}
+			]},
+			{"id":"P-2012-14","title":"Levi's Loop Redemption Program","type":"Web Template","link":"","tags":["HTML","CSS","UI"],"images":[
+				{"path":"P-2012-14.png","width":907,"height":712,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2012-15","title":"Sting Bass Tour","type":"Newsletter Template","link":"","tags":["HTML","CSS","UI"],"images":[
+				{"path":"P-2012-15.png","width":634,"height":1570,"rWidth":2,"rHeight":5}
+			]},
+			{"id":"P-2012-16","title":"Potato Head","type":"Restaurant","link":"","tags":["HTML","CSS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-16a.png","width":1253,"height":644,"rWidth":2,"rHeight":5},
+				{"path":"P-2012-16b.png","width":634,"height":1570,"rWidth":2,"rHeight":5}
+				]},
+			{"id":"P-2012-17","title":"Eleven","type":"Web Store","link":"","tags":["HTML","CSS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-17a.jpg","width":1500,"height":840,"rWidth":3,"rHeight":2},
+				{"path":"P-2012-17b.jpg","width":1304,"height":732,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2012-18","title":"Ghea Fashion Studio","type":"Landing Page","link":"","tags":["HTML","CSS","UI"],"images":[
+				{"path":"P-2012-18a.jpg","width":712,"height":570,"rWidth":2,"rHeight":2},
+				{"path":"P-2012-18b.jpg","width":1153,"height":685,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2012-19","title":"Popo Photography","type":"Company Profile","link":"","tags":["HTML","CSS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-19.jpg","width":545,"height":411,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2012-20","title":"Savica","type":"Company Profile","link":"","tags":["HTML","CSS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-20.png","width":1050,"height":711,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2012-21","title":"Selasi","type":"Company Profile","link":"","tags":["HTML","CSS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-21.jpg","width":969,"height":803,"rWidth":2,"rHeight":2}
+			]},
+			{"id":"P-2012-22","title":"SportBlizz","type":"Product Showcase","link":"","tags":["HTML","CSS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-22.jpg","width":1280,"height":2250,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2012-23","title":"Tapping Shoes","type":"Restaurant","link":"","tags":["HTML","CSS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-23a.jpg","width":1332,"height":820,"rWidth":3,"rHeight":2},
+				{"path":"P-2012-23b.jpg","width":1375,"height":882,"rWidth":3,"rHeight":2}
+				]},
+			{"id":"P-2012-24","title":"Whatnot","type":"Company Profile","link":"","tags":["HTML","CSS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2012-24a.jpg","width":1359,"height":1281,"rWidth":2,"rHeight":2},
+				{"path":"P-2012-24b.jpg","width":1359,"height":1284,"rWidth":2,"rHeight":2},
+				{"path":"P-2012-24c.jpg","width":1359,"height":1282,"rWidth":2,"rHeight":2},
+				{"path":"P-2012-24d.jpg","width":1358,"height":1277,"rWidth":2,"rHeight":2},
+				{"path":"P-2012-24e.jpg","width":1357,"height":1282,"rWidth":2,"rHeight":2}
+			]}
+
+		]
+	},
+	{
+		"year":"2011",
+		"projects":[
+			{"id":"P-2011-01","title":"Ark Gallery","type":"Gallery Site","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2011.png","width":469,"height":330,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2011-02","title":"Kanaya","type":"Company Profile","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Wordpress"],"images":[
+				{"path":"P-2011-02.png","width":341,"height":202,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2011-03","title":"Beast88","type":"Landing Page","link":"","tags":["HTML","CSS","JS","UI","jQuery","Flash"],"images":[
+				{"path":"P-2011-03.png","width":758,"height":438,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2011-04","title":"Belanja Dapur","type":"Cooking Site Template","link":"","tags":["HTML","CSS","JS","UI","jQuery"],"images":[
+				{"path":"P-2011-04.png","width":639,"height":718,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2011-05","title":"MIYCN","type":"Company Profile","link":"","tags":["HTML","CSS","JS","UI","jQuery","Wordpress"],"images":[
+				{"path":"P-2011-05.png","width":1116,"height":720,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2011-06","title":"Netriva","type":"Company Profile","link":"","tags":["HTML","CSS","JS","UI","jQuery","Wordpress"],"images":[
+				{"path":"P-2011-06.png","width":617,"height":787,"rWidth":2,"rHeight":3}]},
+			{"id":"P-2011-07","title":"Satcas","type":"Web Store","link":"","tags":["HTML","CSS","JS","UI","jQuery","Opencart"],"images":[
+				{"path":"P-2011-07.jpg","width":1769,"height":1106,"rWidth":3,"rHeight":2}]},
+			{"id":"P-2011-08","title":"Tribute","type":"Web Store","link":"","tags":["HTML","CSS","JS","UI","jQuery","Opencart"],"images":[
+				{"path":"P-2011-08a.jpg","width":480,"height":622,"rWidth":2,"rHeight":3},
+				{"path":"P-2011-08b.jpg","width":480,"height":623,"rWidth":2,"rHeight":3},
+				{"path":"P-2011-08c.jpg","width":479,"height":641,"rWidth":2,"rHeight":3}
+			]},
+			{"id":"P-2011-09","title":"Uprising","type":"Web Store","link":"","tags":["HTML","CSS","JS","UI","jQuery","Opencart"],"images":[
+				{"path":"P-2011-09.jpg","width":1252,"height":929,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2011-10","title":"Prime Star Asia","type":"Company Profile","link":"","tags":["HTML","CSS","JS","UI","jQuery","Wordpress","Flash"],"images":[
+				{"path":"P-2011-10.jpg","width":1246,"height":768,"rWidth":3,"rHeight":2}
+			]}
+		]
+	},
+	{
+		"year":"2010 & Older",
+		"projects":[
+			{"id":"P-2010-01","title":"My Remote Life","type":"Networking","link":"","tags":["HTML","CSS","JS","UI","jQuery","Ning"],"images":[
+				{"path":"P-2010-01.png","width":1060,"height":712,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2010-02","title":"Waterpark POS","type":"POS","link":"","tags":["C#","SQL Server","Custom App"],"images":[
+				{"path":"P-2010-02.png","width":948,"height":617,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2009-01","title":"Home Made Indonesia","type":"Web Store","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Custom Site"],"images":[
+				{"path":"P-2009-01.png","width":856,"height":710,"rWidth":2,"rHeight":2}
+			]},
+			{"id":"P-2009-02","title":"Dua Berlian Forex","type":"Company Profile","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Custom Site"],"images":[
+				{"path":"P-2009-02.png","width":948,"height":712,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2008-01","title":"Bentwood","type":"Company Profile","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Custom Site"],"images":[
+				{"path":"P-2008.png","width":1073,"height":712,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2007-01","title":"Pangkalan Data OPT","type":"Application System","link":"","tags":["HTML","CSS","JS","UI","jQuery","PHP","MySQL","Custom Site"],"images":[
+				{"path":"P-2007.png","width":1127,"height":635,"rWidth":3,"rHeight":2}
+			]}
+		]
+	}
+]
