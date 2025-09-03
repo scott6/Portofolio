@@ -20,6 +20,7 @@ Explore my repositories to see examples of:
 - Responsive UI layouts  
 - Workflow automation tools  
 - Custom editors and reusable components
+  
 Visit https://scott6.github.io/Portofolio for complete reference.
 
 ## 🌐 Connect
