@@ -53,7 +53,7 @@ body{overflow-y: hidden;}
     margin-left: -5px;
     margin-top: -5px;
     box-shadow: 8px 10px 5px 0px rgba(0, 0, 0, 0.5);
-    filter: brightness(0.9);
+    filter: brightness(1.05);
 }
 .pw-portolist .pw-portoitems .pw-img>img{
     width: 100%;
@@ -444,6 +444,7 @@ a.pw-popwindow-close {
     color: #fff;
     padding: 10px;
     z-index: 1;
+    transition: all linear 100ms;
 }
 a.pw-popwindow-close::after, a.pw-popwindow-close::before {
     content: '';
@@ -469,6 +470,7 @@ a.pw-popwindow-close:hover::before {
 
 a.pw-popwindow-close:hover {
     background: #A00;
+    padding-top: 15px;
 }
 .vnote {
     font-size: 11px;

@@ -85,8 +85,7 @@
 			]},
 			{"id":"P-2022-05","title":"BitBox","type":"File Share","link":"","tags":["HTML","CSS","JS","UI/UX","jQuery","Responsive"],"images":[
 				{"path":"P-2022-04b.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2},
-				{"path":"P-2022-04a.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2},
-				{"path":"P-2022-04c.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2}
+				{"path":"P-2022-04a.jpg","width":1744,"height":890,"rWidth":3,"rHeight":2}
 			]},
 			{"id":"P-2021-01","title":"Asosiasi Advokat Indonesia","type":"Company Site","link":"https://asosiasiadvokatindonesia.id/","tags":["HTML","CSS","JS","UI/UX","jQuery","PHP","Wordpress","Responsive"],"images":[
 				{"path":"P-2021-01a.png","width":1920,"height":4363,"rWidth":3,"rHeight":3, "style":"object-fit: cover;object-position: top;"},
