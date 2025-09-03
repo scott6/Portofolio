@@ -6,7 +6,7 @@ body{overflow-y: hidden;}
     align-items: stretch;
 }
 .pw-container>.pw-bio {
-    padding: 20px 40px 20px;
+    padding: 35px 40px 20px;
     min-width: 650px;
     background-image: url(../images/wall-dark.jpg);
     height: 100vh;
@@ -46,6 +46,14 @@ body{overflow-y: hidden;}
     box-shadow: 3px 5px 5px 0px rgba(0, 0, 0, 0.3);
     position: relative;
     box-sizing: border-box;
+    cursor: pointer;
+    transition: all linear 100ms;
+}
+.pw-portolist .pw-portoitems .pw-img:not(.pw-ornament):hover {
+    margin-left: -5px;
+    margin-top: -5px;
+    box-shadow: 8px 10px 5px 0px rgba(0, 0, 0, 0.5);
+    filter: brightness(0.9);
 }
 .pw-portolist .pw-portoitems .pw-img>img{
     width: 100%;
@@ -356,9 +364,8 @@ label.pw-tag>input:checked+span {
 .owl-nav {
     position: absolute;
     top: 50%;
-    margin-top:-25px;
     width: 100%;
-    margin: 0 !important;
+    margin: -25px 0 0 0 !important;
     font-size: 5em;
     line-height: 1em;
     overflow: hidden;
@@ -430,12 +437,34 @@ label.pw-tag>input:checked+span {
 }
 a.pw-popwindow-close {
     position: absolute;
-    right: 30px;
-    top: 15px;
+    right: 50px;
+    top: 30px;
     background: #900;
     text-decoration: none;
     color: #fff;
     padding: 10px;
+    z-index: 1;
+}
+a.pw-popwindow-close::after, a.pw-popwindow-close::before {
+    content: '';
+    display: block;
+    border-color: #900 #900 transparent transparent;
+    border-width: 8px;
+    position: absolute;
+    bottom: -16px;
+    border-style: solid;
+    right: 0;
+}
+a.pw-popwindow-close::before {
+    border-color: #900 transparent transparent #900;
+    right: auto;
+    left: 0;
+}
+a.pw-popwindow-close:hover::after {
+    border-color: #A00 #A00 transparent transparent;
+}
+a.pw-popwindow-close:hover::before {
+    border-color: #A00 transparent transparent #A00;
 }
 
 a.pw-popwindow-close:hover {
@@ -469,10 +498,13 @@ a.pw-popwindow-close:hover {
     margin-bottom: 50px;
 }
 .pw-myphoto .pw-frames ::before,
-.pw-myphoto .pw-frames ::after {
+.pw-myphoto .pw-frames ::after,
+.pw-popwindow .pw-frames ::before,
+.pw-popwindow .pw-frames ::after{
     border-width:30px;
 }
-.pw-myphoto .pw-frames .pw-frame-c {
+.pw-myphoto .pw-frames .pw-frame-c,
+.pw-popwindow .pw-frames .pw-frame-c {
     left:30px; top:30px; right:30px; bottom:30px;
 }
 .pw-myphoto img {
@@ -494,4 +526,43 @@ a.pw-popwindow-close:hover {
 .pw-media a>img {
     box-shadow: 3px 3px 3px rgba(0,0,0,0.3);
     border-radius: 5px;
+}
+.pw-project-pager {
+    display: flex;
+}
+
+.pw-project-pager>a {
+    font-size: 12px;
+    padding: 5px 10px;
+    min-width: 110px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #eee;
+    color: #333;
+    border: 1px solid #999;
+}
+.pw-project-pager>a:hover{
+    background-color: #eaeaea;
+}
+.pw-project-pager>a:first-child {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border: 1px solid #999;
+    border-top-color: #fff;
+    border-left-color: #fff;
+}
+
+.pw-project-pager>a:last-child {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-color: #fff;
+    border-left-color: #fff;
+}
+.pw-project-pager>a:active:first-child,
+.pw-project-pager>a:active:last-child{
+    border-top-color: #999;
+    border-left-color: #999;
+    border-bottom-color:#fff;
+    border-right-color:#fff;
 }

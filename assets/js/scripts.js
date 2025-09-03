@@ -66,12 +66,15 @@ function initPage(){
     });
 }
 
+var _pwCurrentProject = null;
 function closeDetail(){
   var popwin = $('.pw-popwindow');
   if (popwin.length>0) popwin.remove();
+  _pwCurrentProject = null;
 }
 
 function showDetails(el){
+  _pwCurrentProject = $(el);
   var popwin = $('.pw-popwindow');
   if (popwin.length>0) popwin.remove();
   popwin = $('<div class="pw-popwindow"><div class="pw-popinner"><div class="pw-frames"><div class="pw-frame-a"></div><div class="pw-frame-b"></div><div class="pw-frame-c"></div></div>'+
@@ -90,6 +93,7 @@ function showDetails(el){
     );
   }
   $('.pw-popinfo', popwin).append(
+    '<div class="pw-project-pager"><a href="#" onclick="pwProjectNav(\'prev\');return false;">Newer Project</a><a href="#" onclick="pwProjectNav(\'next\');return false;">Older Project</a></div>'+
     '<h3>'+project.title+'</h3>'+
     '<div class="item"><div class="lbl">Year</div><div class="val">'+prjYear+'</div></div>'+
     '<div class="item"><div class="lbl">Type</div><div class="val">'+project.type+'</div></div>'+
@@ -104,6 +108,20 @@ function showDetails(el){
       items:1,
       dots:true
   })
+}
+
+function pwProjectNav(direction) {
+  if (!_pwCurrentProject) return;
+  var target = direction === 'next' ? _pwCurrentProject.nextAll(':not(.pw-ornament)').first() : _pwCurrentProject.prevAll(':not(.pw-ornament)').first();
+  if (target.length > 0) {
+    showDetails(target[0]);
+  } else {
+    var parentBlock = _pwCurrentProject.closest('.pw-portoblock');
+    var siblingBlock = direction === 'next' ? parentBlock.next('.pw-portoblock') : parentBlock.prev('.pw-portoblock');
+    if (siblingBlock.length > 0) {
+      showDetails(siblingBlock.find('.pw-img:not(.pw-ornament)').first());
+    }
+  }
 }
 
 function pwTagToggle(el) {
