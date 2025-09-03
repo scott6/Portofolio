@@ -27,6 +27,10 @@ Visit https://scott6.github.io/Portofolio for complete reference.
 
 Feel free to explore, fork, or reach out if you're interested in collaboration or have any questions.
 
+## 📌 Note on Repository Name
+
+The repository is named **portofolio**, which is the Indonesian term for **portfolio**. This is intentional and not a typo 😊.
+
 ---
 
 Thanks for visiting!
