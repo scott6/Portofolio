@@ -64,6 +64,15 @@ function initPage(){
     .catch(error => {
       console.error('Error fetching portofolio.json:', error);
     });
+
+    //$('.pw-portoblock > h2')
+    window.addEventListener('scroll', () => { 
+      if (window.outerWidth>=768) return;
+      $('.pw-portoblock > h2').each(function() {
+        var header = $(this);
+        header.toggleClass('is-sticky', window.scrollY >= header.position().top);
+      });
+    });
 }
 
 var _pwCurrentProject = null;

@@ -1,7 +1,30 @@
 [
 	{
+		"year":"2026",
+		"projects":[
+			{"id":"P-2026-01","title":"Moonboy","type":"Production House","link":"","tags":["HTML","CSS","JS","jQuery","Webflow","Cloudflare (R2)"],"images":[
+				{"path":"P-2026-01a.png","width":1888,"height":897,"rWidth":3,"rHeight":2, "style":"object-fit: cover;"},
+				{"path":"P-2026-01b.png","width":1890,"height":896,"rWidth":3,"rHeight":2, "style":"object-fit: cover;"},
+				{"path":"P-2026-01c.png","width":1894,"height":901,"rWidth":3,"rHeight":2, "style":"object-fit: cover;"},
+				{"path":"P-2026-01d.png","width":1889,"height":911,"rWidth":3,"rHeight":2, "style":"object-fit: cover;"}
+			]},
+			{"id":"P-2026-02","title":"Launch a Business","type":"Business Services","link":"https://www.launchabusiness.ca/","tags":["HTML","CSS","JS","jQuery","Wix","Jotform","Stripe Payment"],"images":[
+				{"path":"P-2026-02a.png","width":942,"height":852,"rWidth":3,"rHeight":3, "style":"object-fit: cover;"},
+				{"path":"P-2026-02b.png","width":1855,"height":802,"rWidth":3,"rHeight":2}
+			]}
+		]
+	},
+	{
 		"year":"2025 - 2023",
 		"projects":[
+			{"id":"P-2025-03","title":"Simply Spanish","type":"Restaurant","link":"https://www.simplyspanish.com.au/","tags":["HTML","CSS","JS","jQuery","Responsive","Squarespace","Acuity Scheduling","Zapier"],"images":[
+				{"path":"P-2025-03a.png","width":802,"height":850,"rWidth":3,"rHeight":3, "style":"object-fit: cover;"},
+				{"path":"P-2025-03b.png","width":1890,"height":902,"rWidth":3,"rHeight":2}
+			]},
+			{"id":"P-2025-04","title":"Premier Living Mgmt","type":"Care Service","link":"https://premierlivingmanagement.com","tags":["HTML","CSS","JS","jQuery","Responsive","Go High Level"],"images":[
+				{"path":"P-2025-04a.png","width":1896,"height":907,"rWidth":3,"rHeight":2, "style":"object-fit: cover;"},
+				{"path":"P-2025-04b.png","width":1895,"height":907,"rWidth":3,"rHeight":2}
+			]},
 			{"id":"P-2025-01","title":"Indopack","type":"Company Profile","link":"https://indopackprinting.com/","tags":["HTML","CSS","JS","UI/UX","jQuery","Bootstrap","Responsive"],"images":[
 				{"path":"P-2025-01a.png","width":1897,"height":907,"rWidth":5,"rHeight":3, "style":"height: 100%;object-fit: fill;"},
 				{"path":"P-2025-01b.png","width":1898,"height":907,"rWidth":3,"rHeight":2},
@@ -70,7 +93,7 @@
 			{"id":"P-2022-02","title":"Primary School Graduation","type":"E-Invitation","link":"","tags":["HTML","CSS","JS","UI/UX","jQuery","Custom Site","Responsive"],"images":[
 				{"path":"P-2022-02.png","width":1266,"height":632,"rWidth":3,"rHeight":2}
 			]},
-			{"id":"P-2022-03","title":"Zwap","type":"Consumer Site","link":"","tags":["HTML","CSS","JS","UI/UX","jQuery","Custom Site","Responsive","Wordpress","PWA","Elementor"],"images":[
+			{"id":"P-2022-03","title":"Zwap","type":"Consumer Site","link":"","tags":["HTML","CSS","JS","UI/UX","jQuery","Custom Site","Responsive","Wordpress","PWA","Elementor","Xendit"],"images":[
 				{"path":"P-2022-03a.jpg","width":480,"height":995,"rWidth":3,"rHeight":5, "style":"background-color: #333333;object-position:top;"},
 				{"path":"P-2022-03b.jpg","width":481,"height":992,"rWidth":2,"rHeight":4},
 				{"path":"P-2022-03c.jpg","width":480,"height":993,"rWidth":2,"rHeight":5},
