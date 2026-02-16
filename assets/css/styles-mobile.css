@@ -135,6 +135,7 @@ body{overflow-y: auto;}
 }
 a.pw-popwindow-close {
     z-index: 9;
-    top: 0;
+    top: 3px;
     right: 10px;
+    position: fixed;
 }
