@@ -49,7 +49,7 @@
 				{"path":"P-2024-02a.jpg","width":1852,"height":1042,"rWidth":3,"rHeight":3, "style":"height:100%;object-fit: cover;"},
 				{"path":"P-2024-02b.jpg","width":1854,"height":1040,"rWidth":3,"rHeight":2}
 			]},
-			{"id":"P-2024-03","title":"UI/UX Generator v2","type":"Design & Development Tools","link":"","tags":["HTML","CSS","JS","UI/UX","jQuery","Bootstrap","Responsive","NodeJS","MySQL","Monaco Editor","UI/UX Document Generator","Rapid UX Usability Testing"],"images":[
+			{"id":"P-2024-03","title":"UI/UX Generator v2","type":"Design & Development Tools","link":"","tags":["HTML","CSS","JS","UI/UX","jQuery","Bootstrap","Responsive","NodeJS","MySQL","Monaco Editor","UI/UX Document Generator","Rapid UX Usability Testing","AI","LLM"],"images":[
 				{"path":"P-2024-03b.jpg","width":1871,"height":955,"rWidth":3,"rHeight":2},
 				{"path":"P-2024-03a.jpg","width":1865,"height":953,"rWidth":4,"rHeight":3},
 				{"path":"P-2024-03c.jpg","width":1870,"height":956,"rWidth":3,"rHeight":2},
